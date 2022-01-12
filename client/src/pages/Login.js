@@ -16,7 +16,7 @@ function Login() {
         <div className="login-maindiv">
             <Row justify="center" className="register-div align-items-center">
                 <Col lg={5} sm={24} xs={24}>
-                    <h1 className="left-title mr-3">Shey</h1>
+                    <h1 className="left-title mr-3">I</h1>
                 </Col>
                 <Col lg={8} xs={24}>
                     <Form layout="vertical" className="bs1 p-3" onFinish={login}>

@@ -47,7 +47,7 @@ class DefaultLayout extends React.Component {
 								<h4 className="pt-3">{JSON.parse(localStorage.getItem("user")).username}</h4>
 							</div>
 							<h2 className="logotext pt-1">
-								<b>SheyGram</b>
+								<b>IGram</b>
 							</h2>
 							{React.createElement(this.state.collapsed ? MenuUnfoldOutlined : MenuFoldOutlined, {
 								className: "trigger",
